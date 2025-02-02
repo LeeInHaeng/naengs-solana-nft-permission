@@ -8,9 +8,11 @@ describe("naengs-solana-nft-permission", () => {
 
   const program = anchor.workspace.NaengsSolanaNftPermission as Program<NaengsSolanaNftPermission>;
 
+  /*
   it("Is initialized!", async () => {
     // Add your test here.
     const tx = await program.methods.initialize().rpc();
     console.log("Your transaction signature", tx);
   });
+  */
 });

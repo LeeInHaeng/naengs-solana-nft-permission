@@ -11,7 +11,7 @@ naengs_solana_nft_permission = "7aRToA2uP6zKZRJgJFxfnxJjA69mJKVXWE7hokoj9Uke"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "devnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
